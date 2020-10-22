@@ -10,6 +10,13 @@ Build a basic video player using react js.
 ### Learnings:
 Learn how to use video tag, play youtube videos and react player usage.
 
+### Learning Resources :
+* [Learn About Video React](https://video-react.js.org/components/player/)
+* [YouTube Video Search App Using React JS & YouTube Data API ](https://dev.to/abhishek305/youtube-video-search-app-using-react-js-youtube-data-api-v3-2020-3f8d)
+* [Responsive and Progressive Video Loading in React](https://medium.com/frontend-digest/responsive-and-progressive-video-loading-in-react-e8753315af51)
+* [Understanding and making React app using YouTube API](https://blog.bitsrc.io/make-a-simple-react-app-with-using-youtube-api-68fa016e5a03)
+* [Guide to video playback in React](https://blog.logrocket.com/a-comprehensive-guide-to-video-playback-in-react/)
+
 ## Available Scripts
 In the project directory, you can run:
 
