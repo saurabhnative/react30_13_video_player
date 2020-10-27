@@ -20,6 +20,9 @@ Learn how to use video tag, play youtube videos and react player usage.
 * [Understanding and making React app using YouTube API](https://blog.bitsrc.io/make-a-simple-react-app-with-using-youtube-api-68fa016e5a03)
 * [Guide to video playback in React](https://blog.logrocket.com/a-comprehensive-guide-to-video-playback-in-react/)
 
+### Demo
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1603818005/Blogimages/Screenshot_2020-10-27_at_10.28.53_PM_to5nyb.png" />  
+
 ## Available Scripts
 In the project directory, you can run:
 
